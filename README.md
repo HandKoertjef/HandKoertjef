@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HandKoertjef
+- 👋 Hi, I’m @ckoertje
 - 👀 I’m interested in nonlinear dynamics and chaos. Recently, I have been studying pattern formation and spatiotemporal chaos in spatially extended systems (PDEs).
 - 🌱 I’m currently learning how to simulate PDEs efficiently and accurately using Julia programming language.
 - 💞️ I’m looking to collaborate on ...
